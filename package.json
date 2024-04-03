@@ -1,0 +1,14 @@
+{
+  "name": "copilot-refs",
+  "version": "1.0.0",
+  "description": "This is a test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "edenhermelin",
+  "license": "ISC"
+}
